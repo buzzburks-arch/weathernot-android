@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The web app's header gradient ends and its accent (frontend/src/index.css). -->
+    <color name="ic_launcher_background">#1C3FD6</color>
+    <color name="ic_launcher_foreground_tint">#FFFFFF</color>
+    <color name="window_background">#EEF3FC</color>
+</resources>
