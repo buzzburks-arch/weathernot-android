@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A cloud with a check mark, inside the adaptive icon's safe zone. A placeholder, not final branding. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="@color/ic_launcher_foreground_tint"
+        android:pathData="M40,70 C31,70 26,64 26,57.5 C26,51 31,46 37.5,46 C39,39 45,34 52.5,34 C61,34 67,40 68,47.5 C75,47.5 82,52.5 82,59 C82,65 77,70 70,70 Z" />
+    <path
+        android:strokeColor="@color/ic_launcher_background"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M43,56 L50,63 L64,49" />
+</vector>
